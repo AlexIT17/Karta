@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные фоновые цвета -->
+    <color name="bg_dark_top">#2B0A0F</color>
+    <color name="bg_dark_bottom">#1A1013</color>
+    <color name="card_bg">#3A1419</color>
+    <color name="card_bg_light">#2E1A1E</color>
+
+    <!-- Акцентные цвета -->
+    <color name="gold_accent">#D4A24C</color>
+    <color name="orange_accent">#E8973A</color>
+    <color name="red_accent">#C62828</color>
+    <color name="red_bright">#E53935</color>
+
+    <!-- Текст -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#B0A8A8</color>
+    <color name="text_gold">#D4A24C</color>
+
+    <!-- Прочее -->
+    <color name="white">#FFFFFF</color>
+    <color name="progress_track">#4A2229</color>
+    <color name="progress_fill">#E8973A</color>
+</resources>
